@@ -82,7 +82,7 @@ This project was developed to practice:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/Coffee-Website.git
+git clone https://github.com/alli-panah-20/Coffee-Website.git
 ```
 
 2. Open the project folder.
