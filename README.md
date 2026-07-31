@@ -46,19 +46,19 @@ Coffee Website
 
 ### Home Page
 
-![Home](Photos/home.png)
+![Home](Photos/Home.png)
 
 ### Services
 
-![Services](Photos/services.png)
+![Services](Photos/Services.png)
 
 ### Gallery
 
-![Gallery](Photos/gallery.png)
+![Gallery](Photos/Gallery.png)
 
 ### Contact
 
-![Contact](Photos/contact.png)
+![Contact](Photos/Contact.png)
 
 ---
 
